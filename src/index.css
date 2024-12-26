@@ -1,0 +1,52 @@
+.container{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.input{
+  
+  text-align: center;
+  /* border: 5px solid black; */
+  border-radius: 10px;
+  font-size: 100%;
+  width: 100%;
+  height: 100%;
+}
+.box{
+  font-size: xx-large;
+  border-radius: 10px sold black;
+  font-style: italic;
+
+
+}
+.text{
+  text-align: center;
+  font-style: italic;
+ 
+  color: black;
+}
+.text:hover{
+  color: darkblue;
+}
+.btns{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.btn{
+  
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: white;
+  background-color: black;
+  border-radius: 10PX;
+  margin-left: 1px;
+  font-size: x-large;
+  margin-top: 5px;
+  margin-bottom: 5px;
+}
+.btn:hover{
+  color: black;
+  background-color: white;
+}
